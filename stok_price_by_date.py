@@ -51,7 +51,7 @@ from stock_csv_save import stock_csv_save
 # step2. 進入目標網站,爬取盤後資訊
 
 
-date = '20191219'
+date = '20150422'
 filename = "stock_date.csv"
 logname = "stock_date_log.txt"
 for i in range(7300):
